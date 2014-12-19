@@ -6,7 +6,8 @@
   \_____|_|  |_/_/    \_\_|    |_____/   |_| |_____/   |_|  |______|_|  |_|
   
   
-  
+  • Lien du Google Code 
+  https://code.google.com/p/chatsystem-boyeldie-tamasle-tda2/
   
   • URL to checkout : 
   svn checkout http://chatsystem-boyeldie-tamasle-tda2.googlecode.com/svn/trunk/ chatsystem-boyeldie-tamasle-tda2-read-only
