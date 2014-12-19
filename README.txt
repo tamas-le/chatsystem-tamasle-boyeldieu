@@ -6,15 +6,21 @@
   \_____|_|  |_/_/    \_\_|    |_____/   |_| |_____/   |_|  |______|_|  |_|
   
   
+  
+  
+  
   • Lien du Google Code 
   https://code.google.com/p/chatsystem-boyeldie-tamasle-tda2/
   
   • URL to checkout : 
   svn checkout http://chatsystem-boyeldie-tamasle-tda2.googlecode.com/svn/trunk/ chatsystem-boyeldie-tamasle-tda2-read-only
   
+  
+  
   If you encounter any problem with this URL, try to checkout only the svn folder with this line command :
   svn checkout http://chatsystem-boyeldie-tamasle-tda2.googlecode.com/svn/ chatsystem-boyeldie-tamasle-tda2-read-only
   
+  WARNING : You will need at least Java 7 to run the project properly !!! 
   
   • Link to the SRS
   https://drive.google.com/folderview?id=0Bxr-GBPo9y8EQndDMXVUU1ViYms&usp=sharing
